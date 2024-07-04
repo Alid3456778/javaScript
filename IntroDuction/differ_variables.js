@@ -26,6 +26,8 @@ console.log(age);
 let sudo =23;
 {
     //this is block and let consider the block and outside block in different way
+
+
     let sudo=44;
     console.log(sudo);
 }
