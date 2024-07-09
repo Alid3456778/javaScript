@@ -16,6 +16,7 @@ else{
     console.log("You are Audelt")
 }
 
+//let exe="Mango"
 let exe="dfd";
 
 switch(exe){
